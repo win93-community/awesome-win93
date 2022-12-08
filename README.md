@@ -35,5 +35,10 @@ An awesome list of community projects made for win93 🕶
 | [Glasscomb](https://github.com/Driftini/93Tweaks/tree/master/themes/glasscomb)  | Theme loosely based off early post-reset Windows Longhorn builds and Windows 7.                                                                                       |
 | [ThemeMaster](https://github.com/Driftini/ThemeMaster)                          | A theme changer for Windows93.                                                                                                                                        |
 | [Pancake (previously known as Windows103)](https://github.com/Driftini/Pancake) | A Windows 10-inspired theme for http://windows93.net                                                                                                                  |
+
 ### Miscellaneous
-Coming soon...
+| **Title**                                                                                                        | **Description**                                             |
+|------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| [Windows 93 Shutdown UI](https://github.com/Blockly1/Windows-93-stuff/blob/main/Windows%2095%20Shutdown%20UI.js) | Blockly's windows 93 more realistic shutdown user interface |
+|                                                                                                                  |                                                             |
+|                                                                                                                  |                                                             |
