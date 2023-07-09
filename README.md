@@ -25,7 +25,6 @@ An awesome list of community projects made for win93 🕶
 | [LunarStore](https://github.com/windows93-community/LunarStore) | This is a fork of Driftini/LunarRabbit to add features that everyone except Driftini likes. It also implements Domenic's backend |
 | [pkg93](https://github.com/pkg93/pkg93)                         | A package manager for Windows 93!                                                                                                |
 | [sus93](https://github.com/parabirb/sus93)                      | sus93 is a sussy package manager for Windows 93.                                                                                 |
-| [sus93+](https://github.com/nicejs-is-cool/sus93plus)           | An (unofficial) project that takes parabirb's sus93 package manager to the next level!                                           |
 
 ### Themes
 | **Title**                                                                       | **Description**                                                                                                                                                       |
